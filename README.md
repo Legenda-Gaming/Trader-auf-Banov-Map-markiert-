@@ -2,4 +2,7 @@
 
 > [!TIP]
 Trader die auf Banov map markiert sind könnt ihr hier einsehen.
+>
+> 
 
+![image](https://github.com/Legenda-Gaming/Trader-auf-Banov-Map-markiert-/assets/170621683/0cf0f6e8-50cd-459a-885f-8800099940cb)
